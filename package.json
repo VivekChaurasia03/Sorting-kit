@@ -1,0 +1,22 @@
+{
+  "name": "sorting-kit",
+  "version": "1.0.0",
+  "description": "Sorting made simple with sorting-kit - a versatile JavaScript package equipped with a diverse set of sorting algorithms to meet your data organization needs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekChaurasia03/Sorting-kit.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Vivek Chaurasia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/VivekChaurasia03/Sorting-kit/issues"
+  },
+  "homepage": "https://github.com/VivekChaurasia03/Sorting-kit#readme"
+}
